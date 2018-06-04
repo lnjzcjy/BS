@@ -3,4 +3,21 @@ mechine learning  by zhouzhihua    Buy
 deeplearning      by huacao        Buy
 shuzituxiangchuli by gangwaleisi   OK
 tongjixuexifangfa by lihang        OK
+PIL the lab of python image     
+PIL python image lib that can do the pic work change the format 
+there are some aspect in it conceptions
+bands   mode size coordinate system palette info filters
+MODE RGB 3 bands  R G B 
+bands   getbands()  from modle image
+mode  1 for white or black
+      L for 8bit  black or white 
+      P for use palette to other mode
+      RGB        3  *8
+      RGBA     4*8    A for air
+      CMYK  
+      YCbCr    color vidio
+      i        32bit  int 
+      F        32bit  float
 
+``
+pan.baidu.com/s/1cxIXB4
